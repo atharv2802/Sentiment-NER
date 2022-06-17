@@ -1,3 +1,7 @@
+<div align="center">
+	<h1><b><i>Sentiment-NER</i></b></h1>
+</div>
+
 Analysis of the play "A Midsummer Night's Dream" using VADER and Stanford NLP for NER
 
 Folder Structure
