@@ -7,7 +7,6 @@ Analysis of the play "A Midsummer Night's Dream" using VADER and Stanford NLP fo
 ## Folder Structure
 ```
 Sentiment-NER
-│   .gitignore
 │   sentimentNER.py                       # python script to apply sentiment analysis and NER
 │   play.txt                              # data text file for the play "A Midsummer Night's Dream" https://www.gutenberg.org/files/1286/ 
 │   requirements.txt                      # contains the required libraries to run the script                 
