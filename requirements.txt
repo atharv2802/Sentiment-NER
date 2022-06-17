@@ -1,0 +1,5 @@
+nltk
+vaderSentiment
+torch
+stanza
+numpy

@@ -1,0 +1,42 @@
+
+
+--------------------Overall Sentiment statistics---------------------
+
+
+Count of sentences in the data file : 107
+
+Count of positive sentences : 53
+
+Count of negative sentences : 27
+
+Count of neutral sentences : 27
+
+Mean/Average compund score of all sentences : 0.18914299065420562
+
+**********************************************************************
+
+
+--------------------Overall NER statistics---------------------
+
+
+Total Persons : 212
+
+Total locations : 3
+
+Total organizations : 2
+
+Total Distinct Persons : 20
+
+Total Distinct locations : 1
+
+Total Distinct organizations : 2
+
+Distinct Person list : ['Cobweb' 'Demetrius' 'Duke of Athens' 'Egeus' 'Helena' 'Hermia' 'Hernia'
+ 'Lysander' 'Mustard' 'Mustard-seed' 'Oberon' 'Peas' 'Philomel' 'Puck'
+ 'Robin Goodfellow' 'Tarry' 'Theseus' 'Titania' 'Unkind' 'Unkind Hermia']
+
+Distinct location list : ['Athens']
+
+Distinct organization list : ['Cobweb' 'Moth']
+
+**********************************************************************
